@@ -1,8 +1,8 @@
 This is a console based application (only backend) of Online Auction Management System. 
 
 **Created By:**
-Mit Swami
-Rutvik Joshi
+- Mit Swami
+- Rutvik Joshi
 
 ### How to open the project?
 To open this project first you need to install latest Eclipse IDE.
